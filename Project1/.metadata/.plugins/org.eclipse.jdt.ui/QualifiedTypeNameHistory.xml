@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.Destination"/>
+<fullyQualifiedTypeName name="model.railyard.OntheTrack"/>
+<fullyQualifiedTypeName name="model.railyard.Railyard"/>
+<fullyQualifiedTypeName name="controller.controller"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="view.GraphicUI"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="javax.smartcardio.Card"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Collections"/>
+<fullyQualifiedTypeName name="model.card.TrainCard"/>
+<fullyQualifiedTypeName name="model.card.DestinationCard"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="javax.swing.JButton"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+<fullyQualifiedTypeName name="model.card.BigCitiesCard"/>
+</qualifiedTypeNameHistroy>
